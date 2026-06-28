@@ -596,6 +596,13 @@ nav {
   margin-bottom: 0;
 }
 
+.about-hero-visual img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  border: 2px solid red;
+}
+
 /* TRUST FEATURES */
 .trust-groups {
   display: grid;
